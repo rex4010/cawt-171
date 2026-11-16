@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* tyrese Grandy */
+
+body {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 16px;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    color: #222;
+}
+
+h2 {
+    margin-top: 32px;
+    border-bottom: 1px solid #ccc;
+}
+
+a {
+    color: #0645ad;
+}
